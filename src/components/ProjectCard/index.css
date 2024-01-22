@@ -1,0 +1,21 @@
+.each-project-card {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 0px 5px #475569;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.project-image {
+  width: 250px;
+}
+.project-name {
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding-left: 10px;
+}
+li {
+  padding: 0;
+  margin: 0;
+}

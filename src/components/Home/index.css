@@ -1,0 +1,52 @@
+.bg-container {
+  min-height: 100vh;
+  background-size: cover;
+}
+.drop-down-container {
+  font-family: 'Roboto';
+  margin-bottom: 50px;
+}
+.drop-down-list {
+  width: 250px;
+  height: 40px;
+  margin-left: 100px;
+  margin-top: 40px;
+  border: 2px solid #cbd5e1;
+  outline: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.drop-down-option {
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.project-cards-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 100px;
+}
+.loader-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+.failed-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+.failed-image {
+  width: 40%;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
